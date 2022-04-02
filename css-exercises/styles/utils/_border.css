@@ -1,0 +1,245 @@
+/* border */
+
+.b-1 {
+  border-width: 1px;
+}
+.b-2 {
+  border-width: 2px;
+}
+.b-3 {
+  border-width: 3px;
+}
+.b-4 {
+  border-width: 4px;
+}
+.b-5 {
+  border-width: 5px;
+}
+
+/* border top */
+
+.bt-1 {
+  border-top-width: 1px;
+}
+.bt-2 {
+  border-top-width: 2px;
+}
+.bt-3 {
+  border-top-width: 3px;
+}
+.bt-4 {
+  border-top-width: 4px;
+}
+.bt-5 {
+  border-top-width: 5px;
+}
+
+/* border bottom */
+
+.bb-1 {
+  border-bottom-width: 1px;
+}
+.bb-2 {
+  border-bottom-width: 2px;
+}
+.bb-3 {
+  border-bottom-width: 3px;
+}
+.bb-4 {
+  border-bottom-width: 4px;
+}
+.bb-5 {
+  border-bottom-width: 5px;
+}
+
+/* border left */
+
+.bl-1 {
+  border-left-width: 1px;
+}
+.bl-2 {
+  border-left-width: 2px;
+}
+.bl-3 {
+  border-left-width: 3px;
+}
+.bl-4 {
+  border-left-width: 4px;
+}
+.bl-5 {
+  border-left-width: 5px;
+}
+
+/* border right */
+
+.br-1 {
+  border-right-width: 1px;
+}
+.br-2 {
+  border-right-width: 2px;
+}
+.br-3 {
+  border-right-width: 3px;
+}
+.br-4 {
+  border-right-width: 4px;
+}
+.br-5 {
+  border-right-width: 5px;
+}
+
+/* border-style */
+
+.bs-solid {
+  border-style: solid;
+}
+.bs-dashed {
+  border-style: dashed;
+}
+.bs-dotted {
+  border-style: dotted;
+}
+.bs-double {
+  border-style: double;
+}
+.bs-groove {
+  border-style: groove;
+}
+.bs-ridge {
+  border-style: ridge;
+}
+.bs-inset {
+  border-style: inset;
+}
+.bs-outset {
+  border-style: outset;
+}
+.bs-hidden {
+  border-style: hidden;
+}
+
+/* border-top-style */
+
+.bts-solid {
+  border-top-style: solid;
+}
+.bts-dashed {
+  border-top-style: dashed;
+}
+.bts-dotted {
+  border-top-style: dotted;
+}
+.bts-double {
+  border-top-style: double;
+}
+.bts-groove {
+  border-top-style: groove;
+}
+.bts-ridge {
+  border-top-style: ridge;
+}
+.bts-inset {
+  border-top-style: inset;
+}
+.bts-outset {
+  border-top-style: outset;
+}
+.bts-hidden {
+  border-top-style: hidden;
+}
+
+/* border-bottom-style */
+
+.bbs-solid {
+  border-bottom-style: solid;
+}
+.bbs-dashed {
+  border-bottom-style: dashed;
+}
+.bbs-dotted {
+  border-bottom-style: dotted;
+}
+.bbs-double {
+  border-bottom-style: double;
+}
+.bbs-groove {
+  border-bottom-style: groove;
+}
+.bbs-ridge {
+  border-bottom-style: ridge;
+}
+.bbs-inset {
+  border-bottom-style: inset;
+}
+.bbs-outset {
+  border-bottom-style: outset;
+}
+.bbs-hidden {
+  border-bottom-style: hidden;
+}
+
+/* border-left-style */
+
+.bls-solid {
+  border-left-style: solid;
+}
+.bls-dashed {
+  border-left-style: dashed;
+}
+.bls-dotted {
+  border-left-style: dotted;
+}
+.bls-double {
+  border-left-style: double;
+}
+.bls-groove {
+  border-left-style: groove;
+}
+.bls-ridge {
+  border-left-style: ridge;
+}
+.bls-inset {
+  border-left-style: inset;
+}
+.bls-outset {
+  border-left-style: outset;
+}
+.bls-hidden {
+  border-left-style: hidden;
+}
+
+/* border-right-style */
+
+.brs-solid {
+  border-right-style: solid;
+}
+.brs-dashed {
+  border-right-style: dashed;
+}
+.brs-dotted {
+  border-right-style: dotted;
+}
+.brs-double {
+  border-right-style: double;
+}
+.brs-groove {
+  border-right-style: groove;
+}
+.brs-ridge {
+  border-right-style: ridge;
+}
+.brs-inset {
+  border-right-style: inset;
+}
+.brs-outset {
+  border-right-style: outset;
+}
+.brs-hidden {
+  border-right-style: hidden;
+}
+
+/* border-color */
+
+.bc-red {
+  border-color: red;
+}
