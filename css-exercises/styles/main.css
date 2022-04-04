@@ -6,12 +6,19 @@
 @import url(utils/_display.css);
 @import url(utils/_borderRadius.css);
 @import url(utils/_overflow.css);
+@import url(utils/_font.css);
+@import url(utils/_text.css);
 
-/* body,
+body,
 html {
   margin: 0;
   padding: 0ّ;
-} */
+  font-size: 16px;
+  font-family: "B Yekan", sans-serif;
+}
+#iransans {
+  font-family: "IRAN Sans Regular";
+}
 * {
   border-width: 0;
 }

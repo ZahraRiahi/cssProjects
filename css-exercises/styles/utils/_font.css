@@ -1,0 +1,60 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,300&display=swap");
+
+.font-size-xs {
+  font-size: 0.5rem;
+}
+
+.font-size-sm {
+  font-size: 0.75rem;
+}
+
+.font-size-md {
+  font-size: 1rem;
+}
+
+.font-size-lg {
+  font-size: 1.5rem;
+}
+
+.font-size-xl {
+  font-size: 2.5rem;
+}
+
+.font-style-italic {
+  font-style: italic;
+}
+
+.font-style-oblique {
+  font-style: oblique;
+}
+
+/*english font*/
+.englisg-font {
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+}
+
+/*persian font*/
+@font-face {
+  font-family: "B Yekan";
+  src: url(../../fonts/B\ Yekan.eot);
+  src: url(../../fonts/B\ Yekan.eot?#iefix) format("embedded open-type"),
+    url(../../fonts/B\ Yekan.woff) format("woff"),
+    url(../../fonts/B\ Yekan.ttf) format("truetype"),
+    url(../../fonts/B\ Yekan.svg) format("svg");
+  font-weight: 400;
+  font-style: normal;
+  font-family: "IRAN Sans Regular";
+  src: url(../../fonts/IRAN\ Sans\ Regular.eot);
+  src: url(../../fonts/IRAN\ Sans\ Regular.eot) format("embedded open-type"),
+    url(../../fonts/IRAN\ Sans\ Regular.woff) format("woff"),
+    url(../../fonts/IRAN\ Sans\ Regular.ttf) format("truetype"),
+    url(../../fonts/IRAN\ Sans\ Regular.svg) format("svg");
+  font-weight: 400;
+  font-style: normal;
+}
+
+/*font variant*/
+.font-variant-small-caps {
+  font-variant: small-caps;
+}
